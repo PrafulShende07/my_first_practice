@@ -1,0 +1,11 @@
+ 
+ @Getmapping use to get URL from class 
+ @RequestParam use this annotation to read the key and value
+
+ Model is map which is represent the data in the form of key value pair 
+ to send the data from controller to UI we will  use model and modelview 
+ 
+  to send the data from UI to Controller we will use below option
+  1) query parameter
+  2) Path parameter
+  3) Request Body
